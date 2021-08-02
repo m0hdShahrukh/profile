@@ -62,3 +62,8 @@
     height: 135%;
 }
 }
+@media (max-width: 402px){
+    .container1 {
+        margin-left: 3rem!important;
+    }
+}

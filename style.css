@@ -67,3 +67,8 @@
         margin-left: 3rem!important;
     }
 }
+@media (max-width: 402px){
+    .img2 img {
+        height: 117%;
+    }
+}

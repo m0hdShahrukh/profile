@@ -10,6 +10,17 @@
     height: 100%;
     width: 100%;
 }
+.img2 img{
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
 #body{
     color: #e4e1e1;
 }
